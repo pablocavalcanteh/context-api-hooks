@@ -1,0 +1,15 @@
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin: 50vh
+}
+
+button {
+  background-color: salmon;
+  border-color: salmon;
+  margin: 2px;
+}
