@@ -7,7 +7,7 @@ const CounterContext = createContext()
 
 export const initialState = {
     counter: 0,
-    loadind: false
+    loading: false
 }
 
 export const CounterContextProvider = ({ children }) => {
